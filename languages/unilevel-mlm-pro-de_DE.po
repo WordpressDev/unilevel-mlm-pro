@@ -1,0 +1,892 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.6.4\n"
+
+msgid "Register New User"
+msgstr "Neuen Benutzer registrieren"
+
+msgid "Sponsor does not exist in the system."
+msgstr "Sponsor nicht im System vorhanden."
+
+msgid "Create Username"
+msgstr "erstellen Benutzername"
+
+msgid "Congratulations! The username is available."
+msgstr "Herzlichen Gl&uumlckwunsch! Der Benutzername ist verf&uumlgbar."
+
+msgid "Create Password"
+msgstr "Passwort erstellen"
+
+msgid "Password length atleast 6 character"
+msgstr "Passwortl&aumlnge mindestens 6 Zeichen"
+
+msgid "Confirm Password"
+msgstr "Passwort best&aumltigen"
+
+msgid "Sponsor Name"
+msgstr "Sponsor Bezeichnung"
+
+msgid "Sorry! The specified sponsor is not available for registration."
+msgstr ""
+"Es tut uns leid! Die angegebene Sponsor ist nicht verf&uumlgbar f&uumlr die "
+"Registrierung."
+
+msgid "Placement"
+msgstr "Platzierung"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Address Line 1"
+msgstr "Adresszeile 1"
+
+msgid "Address Line 2"
+msgstr "Adresszeile 2"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "State"
+msgstr "Staat"
+
+msgid "Postal Code"
+msgstr "Postleitzahl"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+msgid "Confirm Email Address"
+msgstr "Email-Adresse best&aumltigen"
+
+msgid "Contact No"
+msgstr "Kein Kontakt"
+
+msgid "Date of Birth"
+msgstr "Geburtsdatum"
+
+msgid "Create First User in Network"
+msgstr "Erstellen Erste User im Netzwerk"
+
+msgid ""
+"In order to begin building your network you would need to register the First "
+"User of the network. All other users would be registered under this First "
+"User."
+msgstr ""
+"Um den Aufbau Ihrer Netzwerk m&uumlssten Sie den ersten Benutzer des "
+"Netzwerks registrieren. Alle anderen Benutzer w&uumlrde unter dieser ersten "
+"Benutzer registriert werden."
+
+msgid "Please Correct the following Error(s)"
+msgstr "Bitte korrigieren Sie die folgenden Fehler (e)"
+
+msgid ""
+"<div class='updated fade'><p><strong>Please create the first user account in "
+"the MLM Network and configure other MLM settings. Please </strong>"
+msgstr ""
+"<div class='updated fade'> <p> Bitte erstellen Sie das erste Benutzerkonto "
+"im MLM Network und konfigurieren Sie andere MLM-Einstellungen. Bitte </ "
+"strong>"
+
+msgid ""
+"<div class='updated fade'><p><strong>Please configure other MLM Settings. </"
+"strong>"
+msgstr ""
+"<div class='updated fade'><p><strong>Bitte konfigurieren Sie andere MLM-"
+"Einstellungen.</strong>"
+
+msgid ""
+"<div class='updated fade'><p><strong>Complete the MLM settings. Please </"
+"strong>"
+msgstr ""
+"<div class='updated fade'> <p>F&uumlhren Sie die MLM-Einstellungen. "
+"gefallen</ strong>"
+
+msgid "<h1>MLM Settings</h1>"
+msgstr "<h1>MLM Einstellungen</ h1>"
+
+msgid "Currency Setting"
+msgstr "W&aumlhrung Setting"
+
+msgid ""
+"Please select the base currency of your MLM Network. This option is very "
+"important as all calculations will be performed in this base currency. Once "
+"this currency is chosen and saved, it CANNOT be changed later. The entire "
+"network will need to be reset if you decide to change the currency at a "
+"later date."
+msgstr ""
+"Bitte w&aumlhlen Sie die Basisw&aumlhrung Ihres MLM Network. Diese Option "
+"ist sehr wichtig, da alle Berechnungen in diesem Basisw&aumlhrung "
+"durchgef&uumlhrt werden. Sobald diese W&aumlhrung wird ausgew&aumlhlt und "
+"gespeichert haben, k&oumlnnen sie sp&aumlter nicht mehr ge&aumlndert werden. "
+"Das gesamte Netz m&uumlssen zur&uumlckgesetzt werden, wenn Sie die "
+"W&aumlhrung zu einem sp&aumlteren Zeitpunkt &aumlndern m&oumlchten."
+
+msgid "Currency"
+msgstr "W&aumlhrung"
+
+msgid "Select your currency which will you use."
+msgstr "W&aumlhlen Sie Ihre W&aumlhrung, die Sie verwenden werden."
+
+msgid "Eligibility Settings"
+msgstr "Teilnahmeberechtigung Einstellungen"
+
+msgid ""
+"Use this screen to define the eligibility criteria for a member to start "
+"earning commissions in the network."
+msgstr ""
+"Verwenden Sie diesen Bildschirm, um die Kriterien f&uumlr ein Mitglied zu "
+"verdienen Provisionen im Netzwerk zu definieren."
+
+msgid "No. of Direct Paid Referrals"
+msgstr "Anzahl der Direkt Paid Empfehlungen"
+
+msgid ""
+"The number of members that a member will need to directly and personally "
+"refer in the network before he can start earning commissions."
+msgstr ""
+"Die Zahl der Mitglieder, dass ein Mitglied, m&uumlssen Sie direkt und "
+"pers&oumlnlich im Netz beziehen, bevor er beginnen kann Provisionen "
+"verdienen."
+
+msgid "No. of paid referral(s) on right leg"
+msgstr "Anzahl der bezahlten &Uumlberweisung (en) auf dem rechten Bein"
+
+msgid ""
+"The number of paid direct and personal referrals a member needs to introduce "
+"in this right leg before he can start earning commissions."
+msgstr ""
+"Die Zahl der bezahlten direkte und pers&oumlnliche Empfehlungen ein Mitglied "
+"muss in diesem rechten Bein einzuf&uumlhren, bevor er beginnen kann "
+"Provisionen verdienen."
+
+msgid "No. of paid referral(s) on left leg"
+msgstr "Anzahl der bezahlten &Uumlberweisung (en) auf dem linken Bein"
+
+msgid ""
+"The number of paid direct and personal referrals a member needs to introduce "
+"in this left leg before he can start earning commissions."
+msgstr ""
+"Die Zahl der bezahlten direkte und pers&ounlichen Empfehlungen ein Mitglied "
+"muss in diesem linken Bein einzuf&uumlhren, bevor er beginnen kann "
+"Provisionen verdienen."
+
+msgid "Please Correct the following Error"
+msgstr "Bitte korrigieren Sie die folgenden Fehler"
+
+msgid "No. of direct paid referral(s)"
+msgstr "Anzahl der direkten &Uumlberweisung bezahlt (s)"
+
+msgid "Please specify direct referral by you."
+msgstr "Bitte geben direkte &Uumlberweisung von Ihnen."
+
+msgid "Please specify no. of paid referrals on right leg."
+msgstr "Bitte geben Sie nicht. bezahlte Verweise am rechten Bein."
+
+msgid "Please specify no. of paid referrals on left leg."
+msgstr "Bitte geben Sie nicht. der bezahlten Einladungen auf dem linken Bein."
+
+msgid "Update Options"
+msgstr "aktualisieren Sie Optionen"
+
+msgid "Payout Settings"
+msgstr "Auszahlung Einstellungen"
+
+msgid "Use this screen to define the basic parameters of your pay plan."
+msgstr ""
+"Verwenden Sie diesen Bildschirm, um die grundlegenden Parameter Ihres Pay-"
+"Plan definieren."
+
+msgid ""
+"How many paid members in the left and right leg individually will make 1 "
+"pair for calculating commissions."
+msgstr ""
+"Wie viele zahlende Mitglieder in der linken und rechten Bein einzeln machen "
+"1 Paar f&uumlr die Berechnung der Provisionen."
+
+msgid ""
+"To incentivise members in the initial stages the amount paid for initial "
+"pairs is slightly higher than the regular payout amount."
+msgstr ""
+"An die Mitglieder in der Anfangsphase der Betrag f&uumlr die erste Paare "
+"bezahlt ist etwas h&oumlher als der normale Auszahlungsbetrag Anreize."
+
+msgid ""
+"Specify the number of initial pairs for which you would like to pay a higher "
+"payout amount."
+msgstr ""
+"Geben Sie die Zahl der Erstantr&aumlge Paare, f&uumlr die Sie einen "
+"h&oumlheren Auszahlungsbetrag zu zahlen w&aumlre."
+
+msgid "This is the per pair amount that is paid for the each Initial Pair."
+msgstr ""
+"Dies ist der Betrag, der pro Paar f&uumlr die einzelnen Initial Pair bezahlt "
+"wird."
+
+msgid "This is the payout amount for every Pair after the Initial Pairs."
+msgstr ""
+"Dies ist der Auszahlungsbetrag f&uumlr jedes Paar nach der anf&aumlnglichen "
+"Paare."
+
+msgid ""
+"An amount that is deducted from each Payout paid to the member as a fixed "
+"Service Charge. eg. $2 as processing fee for each payout."
+msgstr ""
+"Ein Betrag, der von jeder Auszahlung abgezogen wird an das Mitglied als "
+"feste Service Gebühr. zB. 2 $ als Bearbeitungsgeb&uumlhr f&uumlr jede "
+"Auszahlung."
+
+msgid ""
+"Some countries have a legislation of deducting Income Tax at source while "
+"making commission payments to your members."
+msgstr ""
+"Einige L&aumlnder haben eine Gesetzgebung der Abzug von Quellensteuer bei "
+"der Herstellung Provisionszahlungen an Ihre Mitglieder."
+
+msgid ""
+"In case there is a tax deduction required in your country you can specify "
+"the tax % here."
+msgstr ""
+"In Fall gibt es einen Steuerabzug erforderlich in Ihrem Land k&oumlnnen Sie "
+"die Steuern% angeben."
+
+msgid "Please mention here pair ratio."
+msgstr "Bitte erw&aumlhnen Sie hier Paar-Verh&aumlltnis."
+
+msgid "Please mention here initial pair."
+msgstr "Bitte erw&aumlhnen Sie hier anf&aumlngliche Paar."
+
+msgid "Initial Pair Amount"
+msgstr "Initial Pair Betrag"
+
+msgid "Please mention here initial amount."
+msgstr "Bitte erw&aumlhnen Sie hier urspr&uumlngliche Betrag."
+
+msgid "Further Pair Amount"
+msgstr "Weitere Paar Betr&aumlge"
+
+msgid "Please mention here further pair amount."
+msgstr "Bitte erwähnen Sie hier weiteres Paar Betrag."
+
+msgid "Service Charge (If any)"
+msgstr "Service Pauschale (wenn &Uumlberhaupt)"
+
+msgid "Please specify service charge."
+msgstr "Bitte geben Sie Service-Geb&uumlhr an."
+
+msgid "Tax Deduction"
+msgstr "Steuerabzug"
+
+msgid "Please specify TDS."
+msgstr "Bitte geben TDS."
+
+msgid "Pair"
+msgstr "Paar"
+
+msgid "Initial Pairs"
+msgstr "Initial Pairs"
+
+msgid ""
+"<span style='color:green;'>Your bonus has been successfully updated.</span>"
+msgstr ""
+"<span style='color:green;'>Ihr Bonus wurde erfolgreich aktualisiert.</ span>"
+
+msgid "Bonus Settings"
+msgstr "Bonus-Einstellungen"
+
+msgid ""
+"In case you have a bonus option in your Network, use this tab to configure "
+"the bonus settings."
+msgstr ""
+"Falls Sie einen Bonus-Option in Ihrem Netzwerk haben, verwenden Sie diese "
+"Registerkarte, um die Bonus-Einstellungen zu konfigurieren."
+
+msgid "Bonus Criteria"
+msgstr "Bonus Kriteritum"
+
+msgid ""
+"The bonus amount can be paid on the basis of Total number of Pairs in a "
+"members network or the Total number of members referred Personally by a "
+"member. Select the option that suits your network."
+msgstr ""
+"Der Bonusbetrag kann auf der Grundlage der Anzahl der Paare in einer "
+"Mitglieder-Netzwerk oder die Gesamtzahl der Mitglieder pers&oumlnlich von "
+"einem Mitglied bezeichnet bezahlt werden. W&aumlhlen Sie die Option, die Ihr "
+"Netzwerk passt."
+
+msgid "Bonus Slabs"
+msgstr "Bonus Brammen"
+
+msgid "Bonus Slab"
+msgstr "Bonus Slab"
+
+msgid ""
+"Specify the total number of pairs or members that a member needs to achieve "
+"and the corresponding bonus amount for the same. To add a new slab click the "
+"Add Row button. Specify the number of pairs / members and the corresponding "
+"amount for the next slab. When you are done creating the slabs click the "
+"Update Options button."
+msgstr ""
+"Geben Sie die Gesamtanzahl von Paaren oder Mitglieder, dass ein Mitglied "
+"muss erreichen und die entsprechende Bonus-Betrag f&uumlr das gleiche. So "
+"f&uumlgen Sie eine neue Platte auf die Schaltfl&aumlche Zeile "
+"hinzuf&uumlgen. Geben Sie die Anzahl von Paaren / Mitglieder und den "
+"entsprechenden Betrag f&uumlr die n&aumlchste Platte. Wenn Sie fertig sind, "
+"schaffen die Platten auf die Update-Schaltfl&aumlche Optionen."
+
+msgid "Example Slab Figures"
+msgstr "Beispiel Slab Zahlen"
+
+msgid "Unit"
+msgstr "Einheit"
+
+msgid "Amount"
+msgstr "Betrag"
+
+msgid ""
+"This implies that a member is paid a commission of 10 on achieving 5 pairs "
+"or personal referrals."
+msgstr ""
+"Dies bedeutet, dass ein Mitglied eine Provision von 10 ist auf die "
+"Erreichung 5 Paare oder pers&oumlnliche Empfehlungen bezahlt."
+
+msgid ""
+"On achieving the NEXT 10 pairs or personal referrals the member is paid a "
+"commission of 20. So now the member has either 15 pairs or 15 personal "
+"referrals in total."
+msgstr ""
+"Bei Erreichen der n&aumlchsten 10 Paaren oder pers&oumlhnliche Empfehlungen "
+"das Mitglied eine Provision von 20 bezahlt. So, jetzt hat das Mitglied "
+"entweder 15 oder 15 Paare pers&oumlnliche Empfehlungen insgesamt."
+
+msgid ""
+"On achieving the NEXT 20 pairs or personal referrals the member is paid a "
+"commission of 40. So now the member has either 35 pairs or 35 personal "
+"referrals in total."
+msgstr ""
+"Bei Erreichen der n&aumlchsten 20 Paaren oder pers&oumlhnliche Empfehlungen "
+"das Mitglied eine Provision von 40 bezahlt. So, jetzt hat das Mitglied "
+"entweder 35 oder 35 Paare pers&oumlnliche Empfehlungen insgesamt."
+
+msgid "Add or remove bonus slab."
+msgstr "Hinzufügen oder Entfernen Bonus Platte."
+
+msgid "Please select bonus type."
+msgstr "Bitte wählen Sie Bonus-Typ."
+
+msgid "License Settings"
+msgstr "Lizenz-Einstellungen"
+
+msgid "License Details"
+msgstr "Lizenztyp Details"
+
+msgid "Domain Name"
+msgstr "Domain Name"
+
+msgid "License Key"
+msgstr "License Schl&uumlssel"
+
+msgid "Please fill the complete information."
+msgstr "Bitte f&uumlllen Sie die vollst&aumlndigen Informationen aus."
+
+msgid ""
+"There has been an error while generating this tree. <br>Please contact the "
+"system admin at"
+msgstr ""
+"Es gibt einen Fehler beim Generieren dieses Baumes. <br> Bitte kontaktieren "
+"Sie den Systemadministrator."
+
+msgid "to report this problem."
+msgstr "um dieses Problem zu melden."
+
+msgid "You can't authorized to access searched user's genealogy."
+msgstr "Sie sind nicht berechtigt, um auf die genealogie zuzugreifen."
+
+msgid "Back"
+msgstr "Zur&uumlck"
+
+msgid "You have searched a wrong username."
+msgstr "Sie haben einen falschen Benutzernamen gesucht."
+
+msgid "My Left Group Details"
+msgstr "Meine linken Gruppen-Details"
+
+msgid "Display Number of Rows"
+msgstr "Anzeige Anzahl der Zeilen"
+
+msgid "Total Users"
+msgstr "Benutzer insgesamt"
+
+msgid "Active Users"
+msgstr "Aktive Benutzer"
+
+msgid "My Right Group Details"
+msgstr "Meine rechten Gruppen Details"
+
+msgid "My Personal Group Details"
+msgstr "Meine Pers&oumlnlichen-Details"
+
+msgid "My Consultants Details"
+msgstr "Meine Consultant Einzelheiten"
+
+msgid "Consultants"
+msgstr "Consultant"
+
+msgid "Personal Information"
+msgstr "Pers&oumlnliche Informationen"
+
+msgid "View Genealogy"
+msgstr "Genealogie anzeigen"
+
+msgid "View All"
+msgstr "Alle anzeigen"
+
+msgid "You have not earned any commisssions yet."
+msgstr "Sie haben noch keine Provision verdient noch."
+
+msgid "Network Details"
+msgstr "Netzwerkdetails"
+
+msgid "Left Leg Sales"
+msgstr "Linkes Bein Vertrieb"
+
+msgid "Right Leg Sales"
+msgstr "Rechtes Bein Vertrieb"
+
+msgid "New Password"
+msgstr "Neues Passwort"
+
+msgid "Type Again"
+msgstr "nochmals eingeben"
+
+msgid "Binary MLM"
+msgstr "Binary MLM"
+
+msgid "Run Payouts"
+msgstr "Auszahlung ausf&uumlhren"
+
+msgid "User Report"
+msgstr "Anwenderbericht"
+
+msgid "MLM Payout"
+msgstr "MLM Auszahlung"
+
+msgid ""
+"Use this screen to run the Payout routine for your network. While testing "
+"the plugin use the Distribute Commission and Bonus button below after adding "
+"a few members to the network. On a live site the following URL needs to be "
+"scheduled (cron job) to run every hour for the commission and bonus routines."
+msgstr ""
+"Verwenden Sie diesen Bildschirm, um die Auszahlung Routine f&uumlr Ihr "
+"Netzwerk. Beim Testen des Plugins verwenden Verteilen Kommission und Bonus "
+"Schaltfl&aumlche unten nach Zugabe von ein paar Mitgliedern des Netzwerks. "
+"Auf einer Live-Website die folgende URL muss geplant (Cron-Job), um jede "
+"Stunde f&uumlr die Kommission und Bonus-Routinen ausf&uumlhren."
+
+msgid ""
+"The commission and bonus routines would simply keep distributing the "
+"commission and bonus amounts in the member accounts. They would not show up "
+"in their account till the time the Payout Routine is not run. This script "
+"can be run manually once every week, every fortnight or every month "
+"depending on the payout cycle of the network. Alternately, please schedule "
+"(cron job) the following URL as per the frequency of the payout cycle."
+msgstr ""
+"Die Kommission und die Bonus-Routinen einfach halten w&uumlrde die "
+"Verteilung der Provision und Bonus-Betr&aumlge in den Mitglied-Konten. Sie "
+"w&uumlrden nicht zeigen, bis in ihr Konto, bis die Zeit der Auszahlung "
+"Routine nicht ausgef&uumlhrt wird. Dieses Skript kann einmal manuell "
+"ausgef&uumlhrt werden jede Woche, alle zwei Wochen oder monatlich je nach "
+"Auszahlung Zyklus des Netzwerks. Alternativ bitte planen (Cron-Job) die "
+"folgende URL nach der Frequenz der Auszahlung Zyklus."
+
+msgid "Distribute Commission and Bonus"
+msgstr "Verteilen Kommission und Bonus"
+
+msgid "Run Payout Routine"
+msgstr "Auszahlungs Routine ausf&uumlhren"
+
+msgid "There is no any eligible member Found in this Payout."
+msgstr "Es gibt sind keine berechtigten Mitglieder in dieser Auszahlung."
+
+msgid "All is Well. Commit."
+msgstr "Alles ist gut. Bestätigen."
+
+msgid "Something wrong. Cancel."
+msgstr "Fehler. Abbrechen."
+
+msgid ""
+"<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; "
+"margin:10px;'>In order to view the details of the payout (like the image "
+"below) before committing the same, you may consider upgrading to the PRO "
+"version of the plugin. You can purchase a license key at"
+msgstr ""
+"<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; "
+"margin:10px;'>Um die Einzelheiten der Auszahlung (wie das Bild unten), bevor "
+"sie sich der gleichen Ansicht, k&oumlnnen Sie ein Upgrade auf die PRO "
+"Version des Plugins. Sie k&oumlnnen einen Lizenzschl&uumlssel zu erwerben"
+
+msgid "Create First User"
+msgstr "Ersten Benutzer erstellen"
+
+msgid "General"
+msgstr "Allgemeine"
+
+msgid "Eligibility"
+msgstr "Teilnahmeberechtigung"
+
+msgid "Payout"
+msgstr "Auszahlung"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "License Detail"
+msgstr "Lizenz Detailansicht"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "User Withdrawals"
+msgstr "Benutzer Abbuchungen"
+
+msgid "User Withdrawal Process"
+msgstr "Benutzer Auszahlungsprozess"
+
+msgid "User Withdrawal Report"
+msgstr "Benutzer Widerrufsrecht melden"
+
+msgid ".po-Editor"
+msgstr ".Bit-Editor"
+
+msgid "Update Details"
+msgstr "Aktualisierungsdetails"
+
+msgid "Add Row"
+msgstr "Zeile hinzuf&uumlgen"
+
+msgid "Delete Row"
+msgstr "Zeile lÃ¶schen"
+
+msgid "Select Bonus Criteria"
+msgstr "W&aumlhlen Bonus Criteria"
+
+msgid "No. of Pairs"
+msgstr "Anzahl der Paare"
+
+msgid "No. of Personal Referrer"
+msgstr "Anzahl an Pers&oumlnlich Empfohlener"
+
+msgid "Select Currency"
+msgstr "W&aumlhlen Sie eine W&aumlhrung"
+
+msgid "Total"
+msgstr "insgesamt"
+
+msgid "Service Charges"
+msgstr "Service Geb&uumlhr"
+
+msgid "createuser"
+msgstr "Benutzer erstellen"
+
+msgid "click here"
+msgstr "klicken Sie hier"
+
+msgid ""
+"Input a member's username or email address in the input box below to get "
+"complete information about the member's account. No more switching back and "
+"forth into different member accounts to check their account details."
+msgstr ""
+"Eingang eines Mitglieds Benutzername oder E-Mail-Adresse in das Eingabefeld "
+"unten, um alle Informationen &uumlber das Konto des Teilnehmers zu erhalten. "
+"Nicht mehr Hin-und Herschalten in verschiedene Mitgliedskonten ihre "
+"Kontodaten zu &uumlberpr&uumlfen."
+
+msgid "Search By username or email address"
+msgstr "Nach Benutzername oder E-Mail-Adresse"
+
+msgid "Back to User Dashboard"
+msgstr "Zur&aumlck zum Dashboard"
+
+msgid "Please enter username or email address."
+msgstr "Bitte geben Sie Ihren Benutzernamen oder E-Mail-Adresse ein."
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "You have entered a wrong username or email address"
+msgstr "Sie haben einen falschen Benutzernamen oder E-Mail-Adresse eingegeben"
+
+msgid "Given below is the list of all pending User Withdrawals."
+msgstr "Da unten ist die Liste aller ausstehenden Auszahlungen Benutzer."
+
+msgid "Process"
+msgstr "Prozess"
+
+msgid "Delete"
+msgstr "l&oumlschen"
+
+msgid ""
+"Input the payment details for the withdrawal. These payment details would "
+"also show up on the User's Payout Details Page."
+msgstr ""
+"Eingabe der Zahlungsdaten f&uumlr den R&uumlckzug. Diese Zahlungsdaten "
+"w&uumlrde auch zeigen, bis auf das Benutzerhandbuch Auszahlung Details Seite."
+
+msgid ""
+"This would mark the withdrawal as deleted. The user would need to initiate a "
+"fresh withdrawal for this payout from his interface."
+msgstr ""
+"Diese Aktion l&oumlscht die Auszahlung. Der Benutzer m&uumlsste eine "
+"Auszahlung beantragen."
+
+msgid "Member Username"
+msgstr "Mitglied Benutzername"
+
+msgid "Member Email"
+msgstr "Mitglied Email"
+
+msgid "Withdrawal Initiate Date"
+msgstr "Auszahlungsdatum"
+
+msgid "Withdrawal Comment"
+msgstr "Auszahlungskommentar"
+
+msgid "Payout Id"
+msgstr "Auszahlung Id"
+
+msgid "Payout Date"
+msgstr "Auszahlung Datum"
+
+msgid "Pending User Withdrawals"
+msgstr "Ausstehend Benutzer Abbuchungen"
+
+msgid "Action"
+msgstr "Handlung"
+
+msgid "Hooray! Nothing in the pipeline to be processed."
+msgstr "Hooray! Nichts in der Pipeline verarbeitet werden."
+
+msgid "Processed Withdrawals Report"
+msgstr "Verarbeitete Abbuchungen melden"
+
+msgid ""
+"Given below is the list of all withdrawal requests that have been "
+"successfully processed."
+msgstr ""
+"Da unten ist die Liste aller Auszahlungen, die erfolgreich verarbeitet."
+
+msgid "User Name"
+msgstr "Benutzername"
+
+msgid "User Email"
+msgstr "Benutzer E-Mail"
+
+msgid "Withdrawal Date"
+msgstr "Abbuchungsdatum"
+
+msgid "Withdrawal Amount"
+msgstr "Abbuchungsbetrag"
+
+msgid "Payment Mode"
+msgstr "Zahlungs-Modus"
+
+msgid "Payment Details"
+msgstr "Einzelheiten zur Bezahlung"
+
+msgid "Submit"
+msgstr "einreichen"
+
+msgid "Your License key has been updated."
+msgstr "Ihr Lizenzschl&uumlssel wurde aktualisiert.‚"
+
+msgid "Sorry, Your License key is invalid."
+msgstr "Leider ist Ihr Lizenzschl&uumlssel ung&uumlltig."
+
+msgid "Direct Referral Commission"
+msgstr "Direkt Referral Kommission"
+
+msgid ""
+"This figure will be configurable on the Payout tab of the Plugin Settings. "
+"This amount will be added to the payout of a particular member during a "
+"particular payout cycle and will be shown on the front end Payout Details "
+"page as a separate line item titled Personal Referral Commission."
+msgstr ""
+"Diese Zahl wird auf der Registerkarte Auszahlung der Plugin-Einstellungen "
+"konfigurierbar sein. Dieser Betrag wird auf die Auszahlung eines bestimmten "
+"Mitgliedes w&aumlhrend eines bestimmten Zyklus Auszahlung hinzugef&uumlgt "
+"werden und werden am vorderen Ende Auszahlung Einzelheiten Seite als "
+"gesonderten Posten mit dem Titel Personal Referral Kommission gezeigt werden."
+
+msgid "Cap Limit"
+msgstr "Kappung"
+
+msgid ""
+"Even if a member is entitled to an amount higher than the cap limit, the "
+"maximum amount that can be paid to the member will be equal to the amount "
+"specified in the cap limit field."
+msgstr ""
+"Selbst wenn ein Mitglied zu einem Betrag h&oumlher als der Kappungsgrenze "
+"berechtigt ist, wird die maximale Menge, die dem Mitglied bezahlt werden "
+"kann in H&oumlhe der Kappungsgrenze Feld angegeben."
+
+msgid "Initial Pair"
+msgstr "Initial Pair"
+
+msgid "Initial Amount"
+msgstr "Basisbetrag"
+
+msgid "Direct Referral Commission Amount"
+msgstr "Direkt Referral Kommission Betrag"
+
+msgid "Cap Limit Amount"
+msgstr "Cap Limitbetrag"
+
+msgid "Confirm Delete withdrawal request?"
+msgstr "L&oumlschen best&aumltigen Auszahlung?"
+
+msgid "Process Individual User Withdrawal"
+msgstr "Prozess Einzelne Benutzer Widerrufsrecht"
+
+msgid "Use the form below to process an individual user withdrawal."
+msgstr ""
+"Benutzen Sie das Formular unten, um einen einzelnen Benutzer Auszahlung zu "
+"bearbeiten."
+
+msgid "Cash"
+msgstr "Barzahlung"
+
+msgid "Cheque"
+msgstr "Scheck"
+
+msgid ""
+"Simply records a cash payment against the withdrawal with no further details."
+msgstr ""
+"Einfach zeichnet eine Barzahlung gegen den Entzug ohne weitere Details."
+
+msgid "Specify the Cheque Number, Cheque Date and Bank Name."
+msgstr "Geben Sie die Anzahl Scheck, Scheck Datum und Name der Bank."
+
+msgid "Bank Transfer"
+msgstr "Bank&uumlberweisung"
+
+msgid ""
+"Specify the Beneficiary Name, Account Number, Bank Name and Bank Transfer "
+"Code (optional)."
+msgstr ""
+"Geben Sie den Name des Beg&uumlnstigten, Kontonummer, Name der Bank und "
+"Bank&uumlberweisung-Code (optional)."
+
+msgid "Other"
+msgstr "Andere"
+
+msgid ""
+"For any other mode of payment. Just specify the payment details in the input "
+"box provided."
+msgstr ""
+"F&uumlr jede andere Art der Bezahlung. Geben Sie einfach die Zahlungsdaten "
+"in das Eingabefeld zur Verf&uumlgung gestellt."
+
+msgid "Member Id"
+msgstr "Mitglied Id"
+
+msgid "Member User Name"
+msgstr "Mitglied Benutzername"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Address"
+msgstr "Anschrift"
+
+msgid "DOB"
+msgstr "DOB"
+
+msgid "Edit"
+msgstr "bearbeiten"
+
+msgid "My Payouts"
+msgstr "Meine Auszahlungen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Total on Right Leg"
+msgstr "Summe der auf dem rechten Bein"
+
+msgid "Total on Left Leg"
+msgstr "Insgesamt auf dem linken Bein"
+
+msgid "My Personal Sales"
+msgstr "Meine Verk&aumlufe"
+
+msgid "Personal Sales"
+msgstr "pers&oumlnlicher Verkauf"
+
+msgid "Details"
+msgstr "Einzelheiten"
+
+msgid "Payout Details"
+msgstr "Auszahlung Einzelheiten"
+
+msgid "Commission"
+msgstr "Kommission"
+
+msgid "Payout Summary"
+msgstr "Auszahlung Zusammenfassung"
+
+msgid "Commission Amount"
+msgstr "Kommission Betrag"
+
+msgid "Bonus Amount"
+msgstr "Bonusbetrag"
+
+msgid "Sub-Total"
+msgstr "Sub-Total"
+
+msgid "Service Charge"
+msgstr "Service Charge"
+
+msgid "Tax"
+msgstr "MwSt."
+
+msgid "Net Amount"
+msgstr "Net Amount"
+
+msgid "Your Withdrawal Request Initiated."
+msgstr "Ihre Auszahlung wurde eingeleitet."
+
+msgid "Withdrawal Pending"
+msgstr "Auszahlung l&aumluft."
+
+msgid "Payment Processed"
+msgstr "Zahlung verarbeitet"
+
+msgid "View Payment Detail"
+msgstr "Zahlungs-Detail anzeigen"
+
+msgid "Comment, if any"
+msgstr "Anmerkungen wenn vorhanden"
+
+msgid "Initiate withdrawal"
+msgstr "Initiiere Auszahlung"
+
+msgid "Payout ID"
+msgstr "Auszahlung ID"
+

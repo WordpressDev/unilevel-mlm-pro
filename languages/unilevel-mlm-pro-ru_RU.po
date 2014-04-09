@@ -1,0 +1,678 @@
+msgid  "Register New User"
+msgstr "Регистрация нового пользователя"
+
+msgid  "Sponsor does not exist in the system."
+msgstr "Спонсор не существует в системе." 
+
+msgid  "Create Username"
+msgstr "Создать Имя пользователя"
+
+msgid  "Congratulations! The username is available."
+msgstr "Поздравляем!Имя пользователя доступно." 
+
+msgid  "Create Password"
+msgstr "Создать пароль"
+
+msgid  "Password length atleast 6 character"
+msgstr "Длина пароля по крайней мере 6 символов"
+
+msgid  "Confirm Password"
+msgstr "Подтверждение пароля"
+
+msgid  "Sponsor Name"
+msgstr "Имя спонсора"
+
+msgid  "Sorry! The specified sponsor is not available for registration."
+msgstr "Извини! Указанная Спонсор не доступен для регистрации."  
+
+msgid  "Placement"
+msgstr "размещение"
+
+msgid  "First Name"
+msgstr "Имя"
+
+msgid  "Last Name"
+msgstr "Фамилия"
+
+msgid  "Address Line 1"
+msgstr "Адресная строка 1"
+
+msgid  "Address Line 2"
+msgstr "Адресная строка 2"
+
+msgid  "City"
+msgstr "город"
+
+msgid  "State"
+msgstr "государство"
+
+msgid  "Postal Code"
+msgstr "почтовый код"
+
+msgid  "Country"
+msgstr "страна"
+
+msgid  "Email Address"
+msgstr "E-mail адрес"
+
+msgid  "Confirm Email Address"
+msgstr "Подтвердить адрес электронной почты"
+
+msgid  "Contact No"
+msgstr "нет Контактная"
+
+msgid  "Date of Birth"
+msgstr "Дата рождения"
+
+
+msgid  "Create First User in Network"
+msgstr "Создание первого пользователя в Сети"
+
+msgid  "In order to begin building your network you would need to register the First User of the network. All other users would be registered under this First User."
+msgstr "Для того, чтобы начать строительство сети вам нужно будет зарегистрироваться первым пользователем сети. Все остальные пользователи будут зарегистрированы в соответствии с этим первым пользователем."
+
+msgid  "Please Correct the following Error(s)"
+msgstr "Пожалуйста, исправьте следующие ошибки (ы)"
+
+msgid  "<div class='updated fade'><p><strong>Please create the first user account in the MLM Network and configure other MLM settings. Please </strong>"
+msgstr "<div class='updated fade'> <p> Пожалуйста, создайте первую учетную запись пользователя в MLM сети и настроить другие параметры MLM. пожалуйста  </ strong>"
+
+msgid  "<div class='updated fade'><p><strong>Please configure other MLM Settings. </strong>"
+msgstr "<div class='updated fade'><p><strong>Пожалуйста, настроить другие параметры MLM. </strong>"
+
+msgid  "<div class='updated fade'><p><strong>Complete the MLM settings. Please </strong>"
+msgstr "<div class='updated fade'> <p> Завершите MLM настройки. пожалуйста </ strong>"
+
+msgid  "<h1>MLM Settings</h1>"
+msgstr "<h1> MLM параметров</ h1>"
+
+msgid  "Currency Setting"
+msgstr "Настройка валюты"
+
+msgid  "Please select the base currency of your MLM Network. This option is very important as all calculations will be performed in this base currency. Once this currency is chosen and saved, it CANNOT be changed later. The entire network will need to be reset if you decide to change the currency at a later date."
+msgstr "Пожалуйста, выберите базовую валюту MLM сети. Этот параметр очень важен, поскольку все расчеты будут проводиться в этой базовой валюты. Как только эта валюта выбирается и сохраняется, оно не может быть изменено позже. Вся сеть необходимо будет сбросить, если вы решите изменить валюту на более поздний срок."
+
+msgid  "Currency"
+msgstr "валюта"
+
+msgid  "Select your currency which will you use."
+msgstr "Выберите валюту, которую вы будете использовать."
+
+msgid  "Eligibility Settings"
+msgstr "Право Настройки"
+
+msgid  "Use this screen to define the eligibility criteria for a member to start earning commissions in the network."
+msgstr "Используйте этот экран для определения критериев приемлемости для пользователя, чтобы начать зарабатывать комиссионные в сети."
+
+msgid  "No. of Direct Paid Referrals"
+msgstr "Количество прямых Платные Рефералы"
+
+msgid  "The number of members that a member will need to directly and personally refer in the network before he can start earning commissions."
+msgstr "Количество пользователей, которые члены должны будут непосредственно и лично обратиться в сети, прежде чем он может начать зарабатывать комиссионные."
+
+msgid  "No. of paid referral(s) on right leg"
+msgstr "Кол-во заплатил направления (ы) на правой ноге"
+
+msgid  "The number of paid direct and personal referrals a member needs to introduce in this right leg before he can start earning commissions."
+msgstr "Количество оплаченных прямых и личных рефералов пользователя необходимо ввести в этом правую ногу, прежде чем он может начать зарабатывать комиссионные."
+
+msgid  "No. of paid referral(s) on left leg"
+msgstr "Кол-во заплатил направления (ы) на левой ноге"
+
+msgid  "The number of paid direct and personal referrals a member needs to introduce in this left leg before he can start earning commissions."
+msgstr "Количество оплаченных прямых и личных рефералов пользователя необходимо ввести в этом левую ногу, прежде чем он может начать зарабатывать комиссионные."
+
+msgid  "Please Correct the following Error"
+msgstr "Пожалуйста, исправьте следующие ошибки"
+
+msgid  "No. of direct paid referral(s)"
+msgstr "Количество прямых заплатил направления (ы)"
+
+msgid  "Please specify direct referral by you."
+msgstr "Пожалуйста, сформулируйте прямых рефералов вами."
+
+msgid  "Please specify no. of paid referrals on right leg."
+msgstr "Пожалуйста, сформулируйте нет. платных рефералов на правой ноге."
+
+msgid  "Please specify no. of paid referrals on left leg."
+msgstr "Пожалуйста, сформулируйте нет. платных рефералов на левой ноге."
+
+msgid  "Update Options"
+msgstr "Обновить настройки"
+
+msgid  "Payout Settings"
+msgstr "Выплата Настройки"
+
+msgid  "Use this screen to define the basic parameters of your pay plan."
+msgstr "На этом экране можно определить основные параметры вашего компенсационного плана."
+
+msgid  "How many paid members in the left and right leg individually will make 1 pair for calculating commissions."
+msgstr "Сколько заплатили члены в левой и правой ноге индивидуально составит 1 пара для расчета комиссий."
+
+msgid  "To incentivise members in the initial stages the amount paid for initial pairs is slightly higher than the regular payout amount."
+msgstr "Для стимулирования членов на начальном этапе сумма, уплаченная за начальные пары немного выше, чем обычное количество выплат."
+
+msgid  "Specify the number of initial pairs for which you would like to pay a higher payout amount."
+msgstr "Укажите число первичных пар, для которых вы хотели бы платить более высокую сумму выплаты."
+
+msgid  "This is the per pair amount that is paid for the each Initial Pair."
+msgstr "Это в расчете на количество пара, которая выплачивается за каждый исходной пары."
+
+msgid  "This is the payout amount for every Pair after the Initial Pairs."
+msgstr "Это сумма выплаты для каждой пары после первоначального парах."
+
+msgid  "An amount that is deducted from each Payout paid to the member as a fixed Service Charge. eg. $2 as processing fee for each payout."
+msgstr "Сумма, которая вычитается из каждой выплаты уделено пользователя в виде фиксированного за обслуживание. например. $ 2, а стоимость производства одного выплаты."
+
+msgid  "Some countries have a legislation of deducting Income Tax at source while making commission payments to your members."
+msgstr "В некоторых странах существует законодательство вычета подоходного налога у источника при принятии комиссионные отчисления членов вашей."
+
+msgid  "In case there is a tax deduction required in your country you can specify the tax % here."
+msgstr "В случае, если налоговый вычет требуются в вашей стране можно указать% налога здесь."
+
+msgid  "Please mention here pair ratio."
+msgstr "Пожалуйста, укажите здесь пару соотношении."
+
+msgid  "Please mention here initial pair."
+msgstr "Пожалуйста, укажите здесь исходной пары."
+
+msgid  "Initial Pair Amount"
+msgstr "Сумма первоначального пара"
+
+msgid  "Please mention here initial amount."
+msgstr "Пожалуйста, укажите здесь первоначальную сумму."
+
+msgid  "Further Pair Amount"
+msgstr "Дополнительное количество пара"
+
+msgid  "Please mention here further pair amount."
+msgstr "Пожалуйста, укажите здесь дополнительной пары сумму."
+
+msgid  "Service Charge (If any)"
+msgstr "Сервисный сбор (если есть)"
+
+msgid  "Please specify service charge."
+msgstr "Пожалуйста, сформулируйте плату за обслуживание."
+
+msgid  "Tax Deduction"
+msgstr "налоговый вычет"
+
+msgid  "Please specify TDS."
+msgstr "Пожалуйста, сформулируйте TDS."
+
+msgid  "Pair"
+msgstr "пара"
+
+msgid  "Initial Pairs"
+msgstr "Начальные пары"
+
+msgid  "<span style='color:green;'>Your bonus has been successfully updated.</span>"
+msgstr "<span style='color:green;'> Ваш бонус был успешно обновлен.</ span>"
+
+msgid  "Bonus Settings"
+msgstr "Бонусные Настройки"
+
+msgid  "In case you have a bonus option in your Network, use this tab to configure the bonus settings."
+msgstr "В случае, если у вас есть бонус вариант в локальной сети, используйте эту вкладку для настройки бонуса настройки."
+
+msgid  "Bonus Criteria"
+msgstr "Бонусные Критерии"
+
+msgid  "The bonus amount can be paid on the basis of Total number of Pairs in a members network or the Total number of members referred Personally by a member. Select the option that suits your network."
+msgstr "Сумма бонуса может быть оплачен на основе Всего пар в члены сети или от общего числа членов, упомянутых лично членом. Выберите вариант, который подходит вашей сети."
+
+msgid  "Bonus Slabs"
+msgstr "Бонусные Плиты"
+
+msgid  "Bonus Slab"
+msgstr "Бонусные плиты"
+
+msgid  "Specify the total number of pairs or members that a member needs to achieve and the corresponding bonus amount for the same. To add a new slab click the Add Row button. Specify the number of pairs / members and the corresponding amount for the next slab. When you are done creating the slabs click the Update Options button."
+msgstr "Указывает общее число пар или членов, что член нужно достичь, и соответствующее количество бонусов по тем же. Чтобы добавить новую плиту нажмите кнопку Добавить строки. Укажите количество пар / членов и соответствующей суммы на следующий плиты. Когда вы закончите создание плит нажмите кнопку Параметры обновления."
+
+msgid  "Example Slab Figures"
+msgstr "Цифры Пример плиты"
+
+msgid  "Unit"
+msgstr "блок"
+
+msgid  "Amount"
+msgstr "количество"
+
+msgid  "This implies that a member is paid a commission of 10 on achieving 5 pairs or personal referrals."
+msgstr "Это означает, что член выплачивается комиссия из 10 человек на достижение 5 пар или личных рефералов."
+
+msgid  "On achieving the NEXT 10 pairs or personal referrals the member is paid a commission of 20. So now the member has either 15 pairs or 15 personal referrals in total."
+msgstr "На достижение следующих 10 пар или личных рефералов пользователя выплачивается комиссия из 20. Так что теперь член имеет либо 15 пар или 15 личных рефералов в общей сложности."
+
+msgid  "On achieving the NEXT 20 pairs or personal referrals the member is paid a commission of 40. So now the member has either 35 pairs or 35 personal referrals in total."
+msgstr "При достижении следующих 20 пар или личных рефералов пользователя выплачивается комиссия из 40. Так что теперь член имеет либо 35 пар или 35 личных рефералов в общей сложности."
+
+msgid  "Add or remove bonus slab."
+msgstr "Добавить или удалить бонус плиты."
+
+msgid  "Please select bonus type."
+msgstr "Пожалуйста, выберите тип бонуса."
+
+msgid  "License Settings"
+msgstr "Лицензия Настройки"
+
+msgid  "License Details"
+msgstr "Сведения о лицензии"
+
+msgid  "Domain Name"
+msgstr "Доменное имя"
+
+msgid  "License Key"
+msgstr "Лицензионный ключ"
+
+msgid  "Please fill the complete information."
+msgstr "Пожалуйста, заполните полную информацию."
+
+msgid  "There has been an error while generating this tree. <br>Please contact the system admin at"
+msgstr "Там была ошибка при создании этого дерева. инструменты свяжитесь с администратором системы в"
+
+msgid  "to report this problem."
+msgstr "чтобы сообщить о проблеме."
+
+msgid  "You can't authorized to access searched user's genealogy."
+msgstr "Вы не можете разрешен доступ к генеалогии искали пользователя."
+
+msgid  "Back"
+msgstr "назад"
+
+msgid  "You have searched a wrong username."
+msgstr "Вы искали Неверное имя пользователя."
+
+msgid  "My Left Group Details"
+msgstr "Моя левая Группа детали"
+
+msgid  "Display Number of Rows"
+msgstr "Показать Количество рядов"
+
+msgid  "Total Users"
+msgstr "Всего пользователей"
+
+msgid  "Active Users"
+msgstr "Активные пользователи"
+
+msgid  "My Right Group Details"
+msgstr "Мое право Группа детали"
+
+msgid  "My Personal Group Details"
+msgstr "Мои личные данные группы"
+
+msgid  "My Consultants Details"
+msgstr "Мои консультанты Подробнее"
+
+msgid  "Consultants"
+msgstr "Консультанты"
+
+msgid  "Personal Information"
+msgstr "Персональная информация"
+
+msgid  "View Genealogy"
+msgstr "Посмотреть Генеалогия"
+
+msgid  "View All"
+msgstr "Показать все"
+
+msgid  "You have not earned any commisssions yet."
+msgstr "Вы не заработал никакого commisssions еще."
+
+msgid  "Network Details"
+msgstr "Сеть Подробнее"
+
+msgid  "Left Leg Sales"
+msgstr "Левая нога продажам"
+
+msgid  "Right Leg Sales"
+msgstr "Правая нога продажам"
+
+msgid  "New Password"
+msgstr "Новый пароль"
+
+msgid  "Type Again"
+msgstr "Введите снова"
+
+msgid  "Binary MLM"
+msgstr "двоичной MLM"
+
+msgid  "Run Payouts"
+msgstr "Выполнить Выплаты"
+
+msgid  "User Report"
+msgstr "Сообщить о пользователе"
+
+msgid  "MLM Payout"
+msgstr "MLM выплат"
+
+msgid  "Use this screen to run the Payout routine for your network. While testing the plugin use the Distribute Commission and Bonus button below after adding a few members to the network. On a live site the following URL needs to be scheduled (cron job) to run every hour for the commission and bonus routines."
+msgstr "Используйте этот экран для запуска выплат обычной для вашей сети. Во время тестирования плагина использовать Распределить комиссии и бонусов кнопку ниже, после добавления нескольких членов к сети. На действующем сайте по следующему адресу должна быть запланирована (хрон) для запуска каждый час в течение комиссии и бонусов процедур."
+
+msgid  "The commission and bonus routines would simply keep distributing the commission and bonus amounts in the member accounts. They would not show up in their account till the time the Payout Routine is not run. This script can be run manually once every week, every fortnight or every month depending on the payout cycle of the network. Alternately, please schedule (cron job) the following URL as per the frequency of the payout cycle."
+msgstr "Комиссии и бонусы процедуры просто держать распространение комиссии и бонусные суммы в счетах пользователя. Они не будут отображаться в их счету до момента выплаты процедура не выполняется. Этот сценарий может быть запущен вручную один раз в неделю, раз в две недели или раз в месяц в зависимости от выплат в сеть. С другой стороны, пожалуйста график (cron'а), по следующему адресу в соответствии с частотой выплаты цикла."
+
+msgid  "Distribute Commission and Bonus"
+msgstr "Распределить комиссии и бонусов"
+
+msgid  "Run Payout Routine"
+msgstr "Выполнить выплат Рутинные"
+
+msgid  "There is no any eligible member Found in this Payout."
+msgstr "Существует не любой правомочный член найти в этой выплаты."
+
+msgid  "All is Well. Commit."
+msgstr "Все хорошо. Совершал."
+
+msgid  "Something wrong. Cancel."
+msgstr "Что-то не так. Отмена."
+
+msgid  "<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; margin:10px;'>In order to view the details of the payout (like the image below) before committing the same, you may consider upgrading to the PRO version of the plugin. You can purchase a license key at"
+msgstr "<p style='border:solid 1px #E6DB55; background:#FFFFCC; padding:10px; margin:10px;'>Для того, чтобы просмотреть сведения о выплате (как на картинке ниже), прежде чем совершать то же самое, вы можете рассмотреть возможность обновления до PRO версии плагина. Вы можете приобрести лицензионный ключ на"
+
+msgid  "Create First User"
+msgstr "Создание первого пользователя"
+
+msgid  "General"
+msgstr "общий"
+
+msgid  "Eligibility"
+msgstr "приемлемость"
+
+msgid  "Payout"
+msgstr "выплата"
+
+msgid  "Bonus"
+msgstr "бонус"
+
+msgid  "License Detail"
+msgstr "Лицензия Подробно"
+
+msgid  "Settings"
+msgstr "настройки"
+
+msgid  "User Withdrawals"
+msgstr "Пользователь Снятие"
+
+msgid  "User Withdrawal Process"
+msgstr "Снятие пользовательских процессов"
+
+msgid  "User Withdrawal Report"
+msgstr "Пожаловаться на пользователя Снятие"
+
+msgid  ".po-Editor"
+msgstr ".Бит-редактор"
+
+msgid  "Update Details"
+msgstr "сведения об обновлении"
+
+msgid  "Add Row"
+msgstr "Добавить строку"
+
+msgid  "Delete Row"
+msgstr "Удалить строку"
+
+msgid  "Select Bonus Criteria"
+msgstr "Выберите Бонусные Критерии"
+
+msgid  "No. of Pairs"
+msgstr "Число пар"
+
+msgid  "No. of Personal Referrer"
+msgstr "Не. штаба Referrer"
+
+msgid  "Select Currency"
+msgstr "Выбор валюты"
+
+msgid  "Total"
+msgstr "общий"
+
+msgid  "Service Charges" 
+msgstr "Плата за услуги"
+
+msgid  "createuser" 
+msgstr "создавать пользовательские"
+
+msgid  "click here" 
+msgstr "нажмите здесь"
+
+msgid  "Input a member's username or email address in the input box below to get complete information about the member's account. No more switching back and forth into different member accounts to check their account details." 
+msgstr "Входной пользователя имя пользователя или адрес электронной почты в поле ввода ниже, чтобы получить полную информацию о счете пользователя. Больше не нужно переключаться в различные учетные записи пользователя, чтобы проверить их счета."
+
+msgid  "Search By username or email address" 
+msgstr "Поиск по имени пользователя или адрес электронной почты" 
+
+msgid  "Back to User Dashboard" 
+msgstr "В режим доступа Dashboard" 
+
+msgid  "Please enter username or email address." 
+msgstr "Пожалуйста, введите имя пользователя или адрес электронной почты."
+
+msgid  "Search"
+msgstr "Поиск"
+
+msgid  "You have entered a wrong username or email address"
+msgstr "Вы ввели неправильное имя пользователя или адрес электронной почты"
+
+msgid  "Given below is the list of all pending User Withdrawals."
+msgstr "Ниже приводится список всех пользователей, ожидающие снятия выигрышей."
+
+msgid  "Process"
+msgstr "процесс"
+
+msgid  "Delete"
+msgstr "удалять"
+
+msgid  "Input the payment details for the withdrawal. These payment details would also show up on the User's Payout Details Page."
+msgstr "Введите платежные реквизиты для вывода. Эти реквизиты платежа будет также отображаться на выплаты страницу пользователя Подробнее."
+
+msgid  "This would mark the withdrawal as deleted. The user would need to initiate a fresh withdrawal for this payout from his interface."
+msgstr "Это будет означать вывод как удаленные.Пользователю необходимо инициировать свежий вывода для этого выплаты от его интерфейса."
+
+msgid  "Member Username"
+msgstr "Член Имя пользователя"
+
+msgid  "Member Email"
+msgstr "Член Отправить"
+
+msgid  "Withdrawal Initiate Date"
+msgstr "Снятие Инициировать Дата "
+
+msgid  "Withdrawal Comment"
+msgstr "Снятие Комментарий "
+
+msgid  "Payout Id"
+msgstr "Выплата Id "
+
+msgid  "Payout Date"
+msgstr "Датой выплаты "
+
+msgid  "Pending User Withdrawals"
+msgstr "Снятия денег в ожидании Пользователь "
+
+msgid  "Action"
+msgstr "действие"
+
+msgid  "Hooray! Nothing in the pipeline to be processed."
+msgstr "Ура! Ничто в трубопроводе, подлежащих обработке."
+
+msgid  "Processed Withdrawals Report"
+msgstr "Обработанные Снятие Отчет "
+
+msgid  "Given below is the list of all withdrawal requests that have been successfully processed."
+msgstr "Ниже приводится список всех заявок на вывод средств, которые были успешно обработаны."
+
+msgid  "User Name"
+msgstr "имя пользователя"
+
+msgid  "User Email"
+msgstr "e-mail пользователя"
+
+msgid  "Withdrawal Date"
+msgstr "Снятие дате"
+
+msgid  "Withdrawal Amount"
+msgstr "суммы снятия"
+
+msgid  "Payment Mode"
+msgstr "Режим компенсации"
+
+msgid  "Payment Details"
+msgstr "Назначение платежа "
+
+msgid  "Submit"
+msgstr "представлять"
+
+msgid  "Your License key has been updated."
+msgstr "Лицензионный ключ был обновлен.。"
+
+msgid  "Sorry, Your License key is invalid."
+msgstr "К сожалению, Ваш лицензионный ключ является недействительным."
+
+msgid  "Direct Referral Commission"
+msgstr "Прямая комиссии Направление"
+
+msgid  "This figure will be configurable on the Payout tab of the Plugin Settings. This amount will be added to the payout of a particular member during a particular payout cycle and will be shown on the front end Payout Details page as a separate line item titled Personal Referral Commission."
+msgstr "Эта цифра будет доступна для выбора на вкладке Выплата настройках плагина. Эта сумма будет добавлена ​​к выплате конкретного члена в течение конкретного цикла выплат и будет показан на переднюю часть выплат Подробная страница как отдельной строкой под названием Личный комиссии направления."
+
+msgid  "Cap Limit"
+msgstr "Cap Limit"
+
+msgid  "Even if a member is entitled to an amount higher than the cap limit, the maximum amount that can be paid to the member will be equal to the amount specified in the cap limit field."
+msgstr "Даже если пользователь имеет право на сумму, превышающую предел крышкой, максимальная сумма, которая может быть выплачена члену будет равна сумме, указанной в поле предела крышкой."
+
+msgid  "Initial Pair"
+msgstr "исходная пара"
+
+msgid  "Initial Amount"
+msgstr "Сумма первоначального"
+
+msgid  "Direct Referral Commission Amount"
+msgstr "Прямая сумма комиссии Направление"
+
+msgid  "Cap Limit Amount"
+msgstr "Количество Cap Limit"
+
+msgid  "Confirm Delete withdrawal request?"
+msgstr "Confirm Delete запрос на снятие денег?"
+
+msgid  "Process Individual User Withdrawal"
+msgstr "Процесс индивидуального Снятие пользователя"
+
+msgid  "Use the form below to process an individual user withdrawal."
+msgstr "Используйте форму ниже, для обработки отдельных вывода пользователю."
+
+msgid  "Cash"
+msgstr "наличные"
+
+msgid  "Cheque"
+msgstr "Чек"
+
+msgid  "Simply records a cash payment against the withdrawal with no further details."
+msgstr "Просто записывает оплаты наличными против вывода без дальнейших подробностей."
+
+msgid  "Specify the Cheque Number, Cheque Date and Bank Name."
+msgstr "Укажите номер чека, дата и чеками Название банка."
+
+msgid  "Bank Transfer"
+msgstr "банковский перевод"
+
+msgid  "Specify the Beneficiary Name, Account Number, Bank Name and Bank Transfer Code (optional)."
+msgstr "Укажите Имя получателя, номер счета, название банка и банковский трансфер Код (необязательно)."
+
+msgid  "Other"
+msgstr "другой"
+
+msgid  "For any other mode of payment. Just specify the payment details in the input box provided."
+msgstr "Для любого другого способа оплаты. Просто укажите реквизиты платежа в соответствующем поле ввода."
+
+msgid  "Member Id"
+msgstr "ID Члена"
+
+msgid  "Member User Name"
+msgstr "Имя пользователя Отправить пользователю"
+
+msgid  "Title"
+msgstr "название"
+
+msgid  "Name"
+msgstr "название"
+
+msgid  "Address"
+msgstr "адрес"
+
+msgid  "DOB"
+msgstr "дата рождения"
+
+msgid  "Edit"
+msgstr "редактировать"
+
+msgid  "My Payouts"
+msgstr "Мои Выплаты"	
+
+msgid  "Date"
+msgstr "дата"	
+
+msgid  "Total on Right Leg"
+msgstr "Всего на правой ноге"	
+
+msgid  "Total on Left Leg"
+msgstr "Всего на Левая нога"	
+
+msgid  "My Personal Sales"
+msgstr "Мои личные продажи"	
+
+msgid  "Personal Sales"
+msgstr "личные продажи"	
+
+msgid  "Details"
+msgstr "детали"	
+
+msgid  "Payout Details"
+msgstr "Выплата Подробнее"	
+
+msgid  "Commission"
+msgstr "комиссия"	
+
+msgid  "Payout Summary"
+msgstr "Выплата Основная информация"	
+
+msgid  "Commission Amount"
+msgstr "Сумма комиссии"	
+
+msgid  "Bonus Amount"
+msgstr "Сумма бонуса"	
+
+msgid  "Sub-Total"
+msgstr "Итого"	
+
+msgid  "Service Charge"
+msgstr "плата за обслуживание"	
+
+msgid  "Tax"
+msgstr "налог"	
+
+msgid  "Net Amount"
+msgstr "чистая сумма"	
+
+msgid  "Your Withdrawal Request Initiated."
+msgstr "Ваш запрос на снятие посвященным."	
+
+msgid  "Withdrawal Pending"
+msgstr "Снятие ожидании"	
+
+msgid  "Payment Processed"
+msgstr "обработанные оплаты"	
+
+msgid  "View Payment Detail"
+msgstr "Посмотреть Деталь компенсации"	
+
+msgid  "Comment, if any"
+msgstr "Комментарий, если таковые"	
+
+msgid  "Initiate withdrawal"
+msgstr "Инициировать вывода"	
+
+msgid  "Payout ID"
+msgstr "Выплата ID"	
