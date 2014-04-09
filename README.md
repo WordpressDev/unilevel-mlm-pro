@@ -17,10 +17,15 @@ The plugin enables you to run a full blown Unilevel MLM Network inside of Wordpr
 New Features in v2.0
 
 1) Separation of WP only users and WP + MLM Users
+
 2) Use inbuilt registration form in our plugin or use your own custom registration form.
+
 3) Setting in admin for specifiying the redirect page for the member affiliate URL.
+
 4) Minimum Withdrawal Amount setting
+
 5) Use our shortcodes anywhere in your page content.
+
 6) Notification email is sent to the entire upline of a new member with the username, first name, last name, sponsor's name of the new member.
 
 New Features in v1.5.1
